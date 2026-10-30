@@ -1,0 +1,6 @@
+.env
+wallet.log
+__pycache__/
+venv/
+.venv/
+test.py
